@@ -68,10 +68,10 @@ Desarrollo completo de una plataforma DeFi multi-cadena que integra múltiples D
 
 **Integración Multi-DEX:**
 - Desarrollo de middlewares especializados para integración con:
-  - 1inch (agregador de liquidez)
-  - OKX (trading cross-chain)
-  - LiFi (puentes cross-chain)
-  - OpenOcean V3/V4 (agregador de liquidez)
+  - 1inch
+  - OKX
+  - LiFi
+  - OpenOcean V3/V4
 - Sistema de enrutamiento inteligente entre diferentes protocolos
 - Soporte para operaciones cross-chain entre 10+ redes (Ethereum, Polygon, BSC, Arbitrum, etc.)
 
